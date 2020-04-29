@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Master3_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0363491804" sel1="0.0363491804" vpos="0" h="0.0000000000" zoom="110.0437465778" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="David Marquez Minguez"/>
+		<tag name="TITLE" value="Master3"/>
+		<tag name="ALBUM" value="Tecnologia Musical"/>
+		<tag name="TRACKNUMBER" value="Practica2"/>
+	</tags>
+	<wavetrack name="Bateria" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="133049">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bbf.au" len="44884" min="-0.999965" max="1.000004" rms="0.172786"/>
+				</waveblock>
+				<waveblock start="44884">
+					<simpleblockfile filename="e0808cc2.au" len="88165" min="-0.999965" max="1.000004" rms="0.105516"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bateria" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="-1.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="133049">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808322.au" len="44884" min="-0.999965" max="1.000004" rms="0.173969"/>
+				</waveblock>
+				<waveblock start="44884">
+					<simpleblockfile filename="e0808545.au" len="88165" min="-0.999965" max="1.000004" rms="0.106017"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Pista de audio" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
+		<waveclip offset="3.01698413" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44082">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808617.au" len="44082" min="-0.999965" max="1.000004" rms="0.148883"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.01778799" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44082">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808774.au" len="44082" min="-0.999965" max="1.000004" rms="0.149447"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Pista de audio" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="1.0" colorindex="0">
+		<waveclip offset="3.01698413" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44082">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e91.au" len="44082" min="-0.999965" max="1.000004" rms="0.149772"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.01778799" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44082">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808635.au" len="44082" min="-0.999965" max="1.000004" rms="0.150232"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
